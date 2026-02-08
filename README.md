@@ -1,6 +1,34 @@
 # edge-ai-orchestrator
 🐦 Distributed Edge AI Orchestrator by Silbaski Dejan - 40x faster, $5 VPS. Local inference + P2P swarm. Democratizing AI for every developer.
 
+---
+
+## ⚠️ Intellectual Property Protection
+
+**© 2026 Silbaski Dejan. All Rights Reserved.**
+
+This document, including all concepts, architectures, designs, methodologies, and ideas described herein, is protected intellectual property.
+
+### Protected Elements:
+- 📄 **Documentation & Specifications** - All text, diagrams, and technical descriptions
+- 💡 **Concepts & Ideas** - Distributed AI orchestration architecture, P2P swarm methodology
+- 🏛️ **System Architecture** - Edge AI orchestrator design and implementation approach
+- 🔧 **Technical Methodology** - Custom fine-tuned models, privacy-first design patterns
+- 📊 **Business Model** - Pricing structure, commercialization strategy
+
+### Legal Notice:
+**Unauthorized use, reproduction, or implementation of these ideas, concepts, or architectures is STRICTLY PROHIBITED without explicit written permission from Silbaski Dejan.**
+
+Violations will result in:
+- Immediate cease & desist
+- Legal action for intellectual property theft
+- Financial damages: **Minimum $1,000,000 USD** per violation
+- Injunctive relief to prevent further use
+
+For licensing inquiries, contact the author directly.
+
+---
+
 
 ## 🚀 What is this?
 
