@@ -28,6 +28,7 @@ Each: 2B params, ~1GB, 20-100 t/s
 - 🔥 Candle by Hugging Face (pure Rust ML framework)
 - ⚡ mistral.rs (native Rust inference)
 - - 🦙 Ollama integration (Go + llama.cpp backend)
+  - - ⚙️ **Orchestrator uses ONLY pure Rust implementations** (Candle/mistral.rs preferred)
 - 🚀 Zero Python overheadvs OpenAI API:
 - 40x faster (local)
 - 1000x cheaper ($0 vs $0.15/1M)
