@@ -86,3 +86,21 @@ AGPL v3 + Commercial
 - Companies >$1M revenue need license
 
 **Built by Silbaski Dejan**
+
+---
+
+## 🚧 Project Status
+
+**This is a project in active development.**
+
+The concepts, architecture, and methodologies described in this document represent the planned implementation. The system is currently being built and is not yet production-ready.
+
+### Current Stage:
+- 📝 **Documentation Phase** - Complete architecture and specifications
+- 🔧 **Implementation Phase** - In progress
+- 🧪 **Testing Phase** - Planned
+- 🚀 **Production Release** - Coming soon
+
+**Note:** Even though the implementation is in progress, all concepts, designs, and methodologies documented here are protected intellectual property as of the commit date (February 8, 2026).
+
+---
