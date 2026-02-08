@@ -22,8 +22,12 @@
 Each: 2B params, ~1GB, 20-100 t/s
 
 ## 📊 Performance
+**Built with Rust** - Pure Rust inference engine for maximum speed and safety:
 
-vs OpenAI API:
+- 🦀 llama.cpp Rust bindings (llama_cpp-rs)
+- 🔥 Candle by Hugging Face (pure Rust ML framework)
+- ⚡ mistral.rs (native Rust inference)
+- 🚀 Zero Python overheadvs OpenAI API:
 - 40x faster (local)
 - 1000x cheaper ($0 vs $0.15/1M)
 - 100% private
@@ -44,8 +48,7 @@ vs OpenAI API:
 - ✅ Zero external data transmission
 - 🛡️ Model runs 100% locally
 
-**Your data NEVER leaves your machine.** Monitor network activity to verify the LLM isn't spying on you.
-
+**Your ideas NEVER leave your machine.** Big Tech LLMs steal intellectual property - your business plans, code, innovations go directly to their servers and can be seen by competitors. With local inference, your ideas stay YOURS. Monitor network to verify zero data exfiltration.
 ## 🔒 License
 
 AGPL v3 + Commercial
