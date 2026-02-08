@@ -1,34 +1,88 @@
-GNU AFFERO GENERAL PUBLIC LICENSE
-Version 3, 19 November 2007
+PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2026 Silbaski Dejan ()
+Copyright © 2026 Silbaski Dejan. All Rights Reserved.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+===============================================
+NO RIGHTS GRANTED - PRIVATE PROPERTY
+===============================================
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
+This software, source code, documentation, and all associated materials 
+(collectively, the "Software") are the exclusive private property of 
+Silbaski Dejan.
 
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+BY ACCESSING THIS REPOSITORY, YOU ACKNOWLEDGE AND AGREE:
 
-ADDITIONAL TERMS FOR COMMERCIAL USE:
+❌ NO LICENSE IS GRANTED
 
-For commercial use by organizations with annual revenue exceeding $1,000,000 USD,
-a separate commercial license is required. Contact: [your-email@example.com]
+You have ZERO rights to:
+1. View, read, study, or analyze the source code
+2. Use the Software for any purpose whatsoever
+3. Copy, reproduce, or duplicate any part of the Software
+4. Modify, adapt, translate, or create derivative works
+5. Distribute, sell, rent, lease, or sublicense the Software
+6. Reverse engineer, decompile, or disassemble the Software
+7. Share or discuss the Software with any third party
+8. Use any ideas, concepts, algorithms, or techniques from the Software
+9. Create competing products or services
+10. Train AI/ML models on this code
 
----
+❌ VIEWING THIS CODE IS PROHIBITED
 
-Full AGPL v3 License Text:
-https://www.gnu.org/licenses/agpl-3.0.txt
+Merely viewing or accessing this repository constitutes unauthorized access.
+If you have stumbled upon this repository, you must:
+- Immediately close this page
+- Delete any local copies
+- Not discuss or reference this Software
 
-Key Requirements:
-- Source code must be made available to all users, including over a network
-- Any modifications must be released under the same AGPL license
-- If you run a modified version on a server, you must make the source available
-- Perfect for SaaS/cloud services - prevents proprietary forks
-- Big Tech companies must either open-source their modifications or negotiate a commercial license
+⚠️ MONITORING & ENFORCEMENT
+
+- All access to this repository is logged and monitored
+- IP addresses, timestamps, and user data are recorded
+- Legal action will be taken against unauthorized access or use
+- Damages will be pursued for any violation
+
+🚨 CRIMINAL & CIVIL LIABILITY
+
+Unauthorized use of this Software may result in:
+- Civil damages up to $1,000,000 USD per violation
+- Criminal prosecution under computer fraud laws
+- Injunctive relief and permanent restraining orders
+- Recovery of attorney fees and court costs
+
+🔒 CONFIDENTIAL TRADE SECRETS
+
+This Software contains proprietary algorithms, architectures, and trade secrets.
+Any unauthorized disclosure or use will be prosecuted under:
+- Trade Secrets Act
+- Computer Fraud and Abuse Act (CFAA)
+- Digital Millennium Copyright Act (DMCA)
+- Economic Espionage Act
+
+📞 LICENSING INQUIRIES ONLY
+
+For licensing, partnership, or investment inquiries ONLY:
+
+Silbaski Dejan
+Email: [your-email@example.com]
+Website: [your-website.com]
+
+Minimum licensing fee: $100,000 USD per year
+Enterprise licensing: Contact for quote
+
+===============================================
+NO WARRANTY - USE AT YOUR OWN RISK
+===============================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+===============================================
+THIS LICENSE IS BINDING AND ENFORCEABLE
+===============================================
+
+By viewing this file, you agree to be bound by these terms.
+If you do not agree, immediately cease all access to this repository.
+
+Last Updated: February 8, 2026
+Jurisdiction: Serbia / International Law
