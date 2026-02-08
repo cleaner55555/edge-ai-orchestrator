@@ -30,8 +30,7 @@ vs OpenAI API:
 
 ## 🛠️ Training
 
-- Base: Qwen2.5-2B/Llama-3.2-3B
-- Fine-tune: LoRA on 10k+ examples  
+- Base: Qwen2.5-2B- Fine-tune: LoRA on 10k+ examples  
 - Quantize: 4-bit
 - Cost: $50-100 per model
 
