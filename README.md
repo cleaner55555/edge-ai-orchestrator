@@ -34,6 +34,18 @@ vs OpenAI API:
 - Quantize: 4-bit
 - Cost: $50-100 per model
 
+- ## 🔒 Privacy & Transparency
+
+**Built-in Network Monitoring** - Users can verify LLM behavior in real-time:
+
+- 📊 Real-time download/upload metrics
+- 🌐 All outbound connections visible
+- 🔍 Traffic analysis dashboard
+- ✅ Zero external data transmission
+- 🛡️ Model runs 100% locally
+
+**Your data NEVER leaves your machine.** Monitor network activity to verify the LLM isn't spying on you.
+
 ## 🔒 License
 
 AGPL v3 + Commercial
